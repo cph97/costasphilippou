@@ -165,6 +165,28 @@ const DATA = {
 };
 
 const WORKS = [
+     { 
+    id: "critical-system-error", 
+    title: "Critical System Error  --   Audiovisual digital work", 
+    meta: "2025", 
+    bg: "assets/criticalSystemError.jpg",
+    desc: "Critical System Error is an audiovisual digital work exploring instability, failure, and system breakdown through sound, image, and digital distortion. The work uses the language of error, interruption, and technological malfunction as a visual and sonic material, creating an atmosphere where collapse becomes part of the composition.",
+    media: [
+      { type: "youtube", src: "https://www.youtube.com/embed/_HFnDLg1_rQ" }
+    ]
+  },
+
+  { 
+    id: "latent-aether", 
+    title: "Latent Aether  --   Audiovisual digital work", 
+    meta: "2025", 
+    bg: "assets/latentAether.jpg",
+    desc: "Latent Aether is an audiovisual digital work that explores latent space, atmospheric digital matter, and emergent forms through generative visual processes and sound. The work approaches the screen as a shifting field where abstract structures appear, dissolve, and reorganize, suggesting a space between data, perception, and synthetic materiality.",
+    media: [
+      { type: "youtube", src: "https://www.youtube.com/embed/EaXJ6nf1d9E" }
+    ]
+  },
+   
   { 
     id: "robot", 
     title: "Are you a robot? Aren't you?  --   Interactive web-based installation · Generative audiovisual system", 

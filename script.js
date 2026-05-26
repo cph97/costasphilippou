@@ -168,7 +168,7 @@ const WORKS = [
      { 
     id: "critical-system-error", 
     title: "Critical System Error  --   Audiovisual digital work", 
-    meta: "2025", 
+    meta: "2026", 
     bg: "assets/criticalSystemError.png",
     desc: "Critical System Error is an audiovisual digital work exploring instability, failure, and system breakdown through sound, image, and digital distortion. The work uses the language of error, interruption, and technological malfunction as a visual and sonic material, creating an atmosphere where collapse becomes part of the composition.",
     media: [
@@ -179,7 +179,7 @@ const WORKS = [
   { 
     id: "latent-aether", 
     title: "Latent Aether  --   Audiovisual digital work", 
-    meta: "2025", 
+    meta: "2026", 
     bg: "assets/latentAether.png",
     desc: "Latent Aether is a real-time interactive audiovisual installation created through an aleatoric amalgamation of environment, perception and illusion. Data streams representing birds of Cyprus are fed into generative artificial neural networks to create animated 3D representations. In parallel, machine learning algorithms are used to encode collected environmental data to generate an embedding space, a boundless latent dimension. The animated birds are thus distributed within a shared latent ecology, an entangled manifestation. Similar to how humans are continuous with the physical universe – as the avian life is continuous with the sky – the latent space acknowledges the interdependency of the environment and the life in it. Latent Aether points to a self-referential system, where sound, motion and networked agents (birds) circulate in a continuous flow, forming an ecosystem that sustains itself through feedback rather than natural causality. Utilizing real-life data and AI algorithms, the project aims to shed light on the illusion that we exist as separate systems across the natural and social systems we inhabit. In doing so, it reflects on the fragility and adaptability of ecosystems, revealing the flows of information, perception and life that sustain them, while quietly pointing to the urgency of recognizing and preserving these delicate interdependencies.",
     media: [
